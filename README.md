@@ -1,6 +1,6 @@
 🛒 Retail Sales & Supply Chain Performance Analysis
-📌 Project Overview
 
+📌 Project Overview
 This project focuses on analyzing retail sales performance, profitability, customer behavior, and supply chain efficiency using real-world retail transaction data.
 
 The objective of this project is to extract meaningful business insights and build an interactive dashboard to support data-driven decision-making.
